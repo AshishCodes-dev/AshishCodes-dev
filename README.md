@@ -1,37 +1,29 @@
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ░░                                                                            ░░ -->
-<!-- ░░   ASHISH PRATAP SINGH — GitHub Profile README                              ░░ -->
-<!-- ░░   Full-Stack Engineer | MERN & TypeScript                                  ░░ -->
-<!-- ░░                                                                            ░░ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&height=300&section=header&text=ASHISH%20PRATAP%20SINGH&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=⚡%20Full-Stack%20Engineer%20%20|%20%20Production%20Systems%20Architect%20%20|%20%20MERN%20%26%20TypeScript&descSize=14&descAlignY=62&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Ashish%20Pratap%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Production%20Systems%20Architect&descSize=16&descAlignY=58" width="100%" alt="Ashish Pratap Singh Header" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshishCodes-dev&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/AshishCodes-dev?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS&logo=github)
-&nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/AshishCodes-dev?style=for-the-badge&color=0d1117&labelColor=161b22&label=TOTAL+STARS&logo=github)
+<!-- PROFILE METRICS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshishCodes-dev&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/AshishCodes-dev?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS&logo=github" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/AshishCodes-dev?style=for-the-badge&color=0d1117&labelColor=161b22&label=TOTAL+STARS&logo=github" alt="Stars" />
+</p>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+Full-Stack+MERN+%26+TypeScript+Engineer;%F0%9F%9A%80+Shipping+Production+Apps+with+99.8%25+Uptime;%F0%9F%8E%AF+Sub-250ms+AI+Pipelines+%7C+92%2B+Lighthouse+Score;%F0%9F%94%A5+3+Production+Systems+Live+on+Vercel;%F0%9F%92%BB+Building+the+Future%2C+One+Commit+at+a+Time)](https://github.com/AshishCodes-dev)
+<!-- ANIMATED TYPING HEADLINE (RESPONSIVE) -->
+<a href="https://github.com/AshishCodes-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Full-Stack+MERN+%26+TypeScript+Engineer;Shipping+Production+Apps+with+99.8%25+Uptime;Sub-250ms+AI+Pipelines+%7C+92%2B+Lighthouse;3+Production+Systems+Live+on+Vercel" alt="Typing Headline" />
+</a>
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              ABOUT + STATS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AshishCodes-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=58a6ff" width="48%"/>
-
-### &nbsp; `$ cat ~/about.md` &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### &nbsp; `$ cat ~/about.md` &nbsp; 🧑‍💻
 
 ```yaml
 name: Ashish Pratap Singh
@@ -41,11 +33,11 @@ current_role: Full-Stack Software Developer
 experience: Aug 2023 — Present
 
 fields_of_interest:
-  - "Low-Latency AI Integration"
-  - "Geospatial Routing & Mapping"
-  - "Real-Time Audio Streaming"
-  - "Secure API Architecture"
-  
+  - "Low-Latency AI Integration (OpenRouter)"
+  - "Geospatial Routing & Mapping (Leaflet / OSRM)"
+  - "Real-Time Audio Streaming (YouTube API / Web Audio)"
+  - "Secure RESTful Architecture (JWT / bcrypt / CORS)"
+
 currently_building: "Production-Grade Full-Stack Systems"
 daily_routine: "Code → Coffee → Deploy → Repeat ☕"
 
@@ -55,27 +47,59 @@ fun_fact: >
   — before my morning coffee is ready.
 ```
 
-<br clear="both"/>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                                TROPHIES                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+### 📊 &nbsp; GitHub Activity & Performance
 
-<img src="https://github-profile-trophy.vercel.app/?username=AshishCodes-dev&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="98%"/>
+<br/>
+
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishCodes-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="85%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- STATS CARDS (SIDE-BY-SIDE ON DESKTOP, STACKED ON MOBILE) -->
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AshishCodes-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="Ashish's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AshishCodes-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="42%" alt="Top Languages" />
+</p>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          PRODUCTION SYSTEMS                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+### ⚡ &nbsp; Engineering Arsenal
+
+<br/>
+
+<p align="center">
+  <b>Languages & Core</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css&theme=dark" alt="Languages" />
+</p>
+
+<p align="center">
+  <b>Frontend & UI</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,pwa&theme=dark" alt="Frontend" />
+</p>
+
+<p align="center">
+  <b>Backend & Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark" alt="Backend & DB" />
+</p>
+
+<p align="center">
+  <b>DevOps & Tooling</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&theme=dark" alt="DevOps" />
+</p>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -83,7 +107,7 @@ fun_fact: >
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -96,24 +120,24 @@ fun_fact: >
 ![OpenRouter](https://img.shields.io/badge/OpenRouter_AI-412991?style=flat-square&logo=openai&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
 ```
-Performance Metrics:
-├── Voice-to-Text Latency .... < 250ms
-├── Evaluation Generation .... < 3 sec
-├── API Response Time ........ < 100ms
-└── MongoDB Indexing ......... Compound
+Architecture & Benchmarks:
+├── Voice-to-Text Pipeline .... < 250ms
+├── Automated Grading Engine .. < 3 sec
+├── Schema Architecture ....... Compound Indexed
+└── Deliverables .............. PDF Report Cards
 ```
 
-> Architected real-time voice-to-text pipeline coupling Web Audio streams with OpenRouter AI APIs. Engineered 5-category evaluation engine generating downloadable PDF report cards. Secured session persistence with normalized MongoDB schemas.
+> Built a sub-250ms voice-to-text pipeline integrating Web Audio streaming with OpenRouter AI. Engineered 5-category evaluation matrix generating instant downloadable report cards.
 
 <div align="center">
 
-[![▶ Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-58a6ff?style=for-the-badge&logoColor=white)](https://client-puce-five-74.vercel.app)
-[![⌨ Source](https://img.shields.io/badge/⌨_SOURCE_CODE-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/InterviewIQ)
+[![▶ Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-58a6ff?style=for-the-badge)](https://client-puce-five-74.vercel.app)
+&nbsp;
+[![⌨ Source](https://img.shields.io/badge/⌨_SOURCE-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/InterviewIQ)
 
 </div>
 
@@ -121,95 +145,91 @@ Performance Metrics:
 <td width="50%" valign="top">
 
 <h3 align="center">🎵 SONIQ</h3>
-<p align="center"><strong>AI-Powered Music Streaming & Queue Platform</strong></p>
+<p align="center"><strong>AI-Powered Music Streaming Platform</strong></p>
 
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 </div>
 
 ```
-Performance Metrics:
-├── Audio Hosting Cost ...... $0/month
-├── AI DJ Queue Gen ......... < 4 sec
-├── Mobile Load Boost ....... 35% faster
-└── Playback Stutter ........ 0% desync
+Architecture & Benchmarks:
+├── Audio Hosting / CDN ....... $0 / month
+├── Natural Language AI DJ .... < 4 sec
+├── Playback Desync ........... 0%
+└── Mobile PWA Load Boost ..... 35% faster
 ```
 
-> Engineered zero-cost audio streaming via YouTube IFrame Player API. Built AI DJ converting mood prompts into auto-playing queues in <4 seconds. Implemented offline PWA caching with Service Workers for instant mobile loads.
+> Engineered zero-cost audio streaming using YouTube IFrame Player API. Built dynamic AI DJ converting mood prompts into instant playlists. Implemented offline PWA caching for mobile.
 
 <div align="center">
 
-[![▶ Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-58a6ff?style=for-the-badge&logoColor=white)](https://sonix-music-app.vercel.app)
-[![⌨ Source](https://img.shields.io/badge/⌨_SOURCE_CODE-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/sonix-music-app)
+[![▶ Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-58a6ff?style=for-the-badge)](https://sonix-music-app.vercel.app)
+&nbsp;
+[![⌨ Source](https://img.shields.io/badge/⌨_SOURCE-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/sonix-music-app)
 
 </div>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🚗 Uber Clone</h3>
-<p align="center"><strong>On-Demand Ride Dispatch & Geospatial Platform</strong></p>
+<p align="center"><strong>Ride Dispatch & Geospatial Platform</strong></p>
 
 <div align="center">
 
 ![MERN](https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![OSRM](https://img.shields.io/badge/OSRM-2C2D72?style=flat-square&logo=openstreetmap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </div>
 
 ```
-Performance Metrics:
-├── Route Rendering ......... < 150ms
-├── Auth Middleware .......... Dual-Role
-├── Ride State Machine ...... 4-Step OTP
-└── Password Security ....... bcrypt + blacklist
+Architecture & Benchmarks:
+├── Route Turn-by-Turn Map .... < 150ms
+├── Access Control ............ Dual-Role JWT
+├── Ride Lifecycle ............ 4-Step OTP Handshake
+└── Security Guard ............ bcrypt + Blacklisting
 ```
 
-> Engineered dual-role access control with strict rider/captain isolation using role-based JWT middleware. Rendered turn-by-turn route maps in <150ms integrating Leaflet + OSRM. Enforced 4-step ride state machine with OTP handshake verification.
+> Engineered dual-role access control with isolated rider and captain portals. Rendered dynamic turn-by-turn routing in <150ms using Leaflet and OSRM. Enforced state machine with OTP verification.
 
 <div align="center">
 
-[![▶ Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-58a6ff?style=for-the-badge&logoColor=white)](https://frontend-alpha-snowy-34.vercel.app)
-[![⌨ Source](https://img.shields.io/badge/⌨_SOURCE_CODE-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/uber-clone-fullstack)
+[![▶ Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-58a6ff?style=for-the-badge)](https://frontend-alpha-snowy-34.vercel.app)
+&nbsp;
+[![⌨ Source](https://img.shields.io/badge/⌨_SOURCE-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/uber-clone-fullstack)
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🔧 Currently Engineering</h3>
-<p align="center"><strong>What's Coming Next</strong></p>
+<h3 align="center">🔧 Next Endeavors</h3>
+<p align="center"><strong>Currently Engineering & Exploring</strong></p>
 
 <br/>
 
 ```javascript
 const roadmap = {
   Q4_2026: {
-    learning: ["System Design", "Redis", "AWS"],
-    building: "SaaS Platform with AI",
-    goal: "Land a Full-Stack Role"
+    topics: ["System Design", "Redis Caching", "AWS Microservices"],
+    building: "AI-Native SaaS Automation Engine",
+    target: "Full-Stack Software Engineering Role"
   },
-  
-  principles: [
+  coreValues: [
     "Ship fast, iterate faster",
-    "Security is not optional",
-    "Performance is a feature",
-    "Clean code > clever code"
+    "Security is not an afterthought",
+    "Sub-second latency is standard"
   ],
-
-  motto: "Build things people actually use."
+  motto: "Code that solves real problems."
 };
 ```
 
@@ -217,7 +237,7 @@ const roadmap = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_MY_PORTFOLIO-58a6ff?style=for-the-badge&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-58a6ff?style=for-the-badge)](https://your-portfolio-url.vercel.app)
 
 </div>
 
@@ -227,141 +247,33 @@ const roadmap = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                             TECH STACK                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-### ⚡ &nbsp; Engineering Arsenal
-
-<br/>
-
-#### `Languages & Core`
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### `Frontend & UI`
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-
-#### `Backend & Runtime`
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### `Databases & Cloud`
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### `DevOps & Tooling`
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                         PERFORMANCE DASHBOARD                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📊 &nbsp; Production Performance Dashboard
+### 📈 &nbsp; Production Standards & Telemetry
 
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                ║
-║   ██████╗ ██████╗  ██████╗ ██████╗ ██╗   ██╗ ██████╗████████╗██╗ ██████╗ ███╗  ║
-║   ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██║   ██║██╔════╝╚══██╔══╝██║██╔═══██╗████╗ ║
-║   ██████╔╝██████╔╝██║   ██║██║  ██║██║   ██║██║        ██║   ██║██║   ██║██╔██╗║
-║   ██╔═══╝ ██╔══██╗██║   ██║██║  ██║██║   ██║██║        ██║   ██║██║   ██║██║╚██║
-║   ██║     ██║  ██║╚██████╔╝██████╔╝╚██████╔╝╚██████╗   ██║   ██║╚██████╔╝██║ ██║
-║   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝║
-║                                                                                ║
-║   ┌──────────────────────────────────────────────────────────────────────────┐  ║
-║   │                                                                          │  ║
-║   │  🟢 Application Uptime ........................... 99.8%                 │  ║
-║   │  🟢 Core Web Vitals ............................. < 1.2 seconds          │  ║
-║   │  🟢 Google Lighthouse Score ...................... 92+ / 100             │  ║
-║   │  🟢 MongoDB Query Optimization .................. ~30% faster            │  ║
-║   │  🟢 Voice-to-Text Pipeline Latency .............. < 250 milliseconds     │  ║
-║   │  🟢 Geospatial Route Rendering (OSRM) ........... < 150 milliseconds    │  ║
-║   │  🟢 AI Queue Generation (SONIQ) ................. < 4 seconds            │  ║
-║   │  🟢 Mobile PWA Load Time ........................ 35% improvement        │  ║
-║   │  🟢 Playback Desync Rate ........................ 0%                     │  ║
-║   │  🟢 Audio Hosting + CDN Cost .................... $0 / month             │  ║
-║   │  🟢 Production Systems Deployed ................. 3 (100% on Vercel)     │  ║
-║   │  🟢 SDLC Coverage ............................... Figma → CI/CD          │  ║
-║   │                                                                          │  ║
-║   └──────────────────────────────────────────────────────────────────────────┘  ║
-║                                                                                ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                     PRODUCTION METRICS                              ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  🟢 Application Uptime ..................... 99.8%                   ║
+║  🟢 Core Web Vitals ....................... < 1.2 seconds            ║
+║  🟢 Google Lighthouse Score ............... 92+ / 100               ║
+║  🟢 MongoDB Query Optimization ............ ~30% faster             ║
+║  🟢 Voice-to-Text Latency ................ < 250 milliseconds       ║
+║  🟢 Route Rendering (Leaflet/OSRM) ....... < 150 milliseconds      ║
+║  🟢 AI Queue Generation (SONIQ) .......... < 4 seconds              ║
+║  🟢 Mobile PWA Load Time ................. 35% improvement          ║
+║  🟢 Audio Hosting + CDN Cost ............. $0 / month               ║
+║  🟢 Production Systems Deployed .......... 3 (100% on Vercel)       ║
+║  🟢 SDLC Coverage ....................... Figma → CI/CD             ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB ANALYTICS                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📈 &nbsp; GitHub Analytics
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishCodes-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" width="49%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCodes-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishCodes-dev&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" width="98%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                           SNAKE ANIMATION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🐍 &nbsp; Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishCodes-dev/AshishCodes-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishCodes-dev/AshishCodes-dev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AshishCodes-dev/AshishCodes-dev/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-> 💡 *Snake animation requires a GitHub Action workflow — see setup instructions in the HTML comments at the bottom of this file*
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              CONNECT                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -369,19 +281,19 @@ const roadmap = {
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://your-portfolio-url.vercel.app)
-&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://your-portfolio-url.vercel.app)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishcodes-dev)
-&nbsp;&nbsp;
+&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish.codes.devv@gmail.com)
-&nbsp;&nbsp;
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev)
-&nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logoColor=white)](https://your-portfolio-url.vercel.app/Ashish_Resume.pdf)
+&nbsp;
+[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge)](https://your-portfolio-url.vercel.app/Ashish_Resume.pdf)
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" alt="Inspirational Tech Quote" />
 
 <br/><br/>
 
@@ -390,59 +302,18 @@ const roadmap = {
 <br/>
 
 ```
- █████╗ ███████╗██╗  ██╗██╗███████╗██╗  ██╗    ██████╗ ██████╗  █████╗ ████████╗ █████╗ ██████╗ 
-██╔══██╗██╔════╝██║  ██║██║██╔════╝██║  ██║    ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗
-███████║███████╗███████║██║███████╗███████║    ██████╔╝██████╔╝███████║   ██║   ███████║██████╔╝
-██╔══██║╚════██║██╔══██║██║╚════██║██╔══██║    ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██╔═══╝ 
-██║  ██║███████║██║  ██║██║███████║██║  ██║    ██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║     
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     
+ █████╗ ███████╗██╗  ██╗██╗███████╗██╗  ██╗
+██╔══██╗██╔════╝██║  ██║██║██╔════╝██║  ██║
+███████║███████╗███████║██║███████╗███████║
+██╔══██║╚════██║██╔══██║██║╚════██║██╔══██║
+██║  ██║███████║██║  ██║██║███████║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-**`> echo "Turning ideas into digital reality — one commit at a time." 🚀`**
+**Turning ideas into digital reality — one commit at a time.** 🚀
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                         SNAKE ANIMATION SETUP                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<!--
-## 🐍 Snake Animation Setup
-
-To enable the contribution snake, create this file in your profile repo:
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AshishCodes-dev
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to repo Settings → Actions → General → Workflow permissions → 
-Select "Read and write permissions" → Save → Run the workflow manually once.
--->
