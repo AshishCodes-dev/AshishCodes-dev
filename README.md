@@ -45,7 +45,21 @@
 
 ---
 
-### &nbsp; `ashish@engineer:~$ whoami --verbose` 💻
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--             ANIMATED TERMINAL CARD (WHOAMI ENGINE)                   -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<p align="center">
+  <img src="terminal.svg" width="100%" alt="Ashish Pratap Singh - Systems Architecture Terminal" />
+</p>
+
+</div>
+
+<details>
+<summary><b>⚡ View Plaintext Specification (TypeScript)</b></summary>
+<br/>
 
 ```typescript
 interface SystemsEngineer {
@@ -67,6 +81,8 @@ interface SystemsEngineer {
   motto: "Clean architectures. Zero shortcuts. Maximum throughput.";
 }
 ```
+
+</details>
 
 ---
 
