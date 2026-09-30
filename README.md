@@ -1,88 +1,92 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Ashish%20Pratap%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Production%20Systems%20Architect&descSize=16&descAlignY=58" width="100%" alt="Ashish Pratap Singh Header" />
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                     CYBERNETIC HEADER BANNER                        -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED TYPING HEADLINE -->
-<a href="https://github.com/AshishCodes-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Hey+there!+I'm+Ashish+%F0%9F%91%8B;Full-Stack+MERN+%26+TypeScript+Engineer;Shipping+Production+Apps+with+99.8%25+Uptime;Sub-250ms+AI+Pipelines+%7C+92%2B+Lighthouse;3+Production+Systems+Live+on+Vercel" alt="Typing Headline" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:1f6feb&height=225&section=header&text=ASHISH%20PRATAP%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Cloud%20Architecture&descSize=15&descAlignY=57" width="100%" alt="Ashish Pratap Singh" />
 
-<br/>
-
-<!-- CAT WORKING ON LAPTOP -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140" alt="Cat typing on laptop" />
-
-<br/>
-
-<!-- PROFILE METRICS -->
+<!-- LIVE STATUS TELEMETRY DOCK -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshishCodes-dev&style=for-the-badge&color=1f6feb&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00FF66?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/AshishCodes-dev?style=for-the-badge&color=1f6feb&labelColor=161b22&label=FOLLOWERS&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/ARCH-LOW__LATENCY__AI-58a6ff?style=for-the-badge&logo=openai&logoColor=white" alt="Architecture" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/AshishCodes-dev?style=for-the-badge&color=1f6feb&labelColor=161b22&label=TOTAL+STARS&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/LOCATION-JAIPUR%2C%20INDIA-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AshishCodes-dev&style=for-the-badge&color=161b22&labelColor=0d1117&label=SYS__VIEWS" alt="Views" />
 </p>
 
-<!-- QUICK LINKS -->
+<!-- DYNAMIC JETBRAINS MONO TYPING STREAM -->
+<a href="https://portfolio-frontend-iota-lilac.vercel.app/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=48&lines=Architecting+Sub-250ms+AI+Voice+Pipelines;Full-Stack+MERN+%26+TypeScript+Engineer;Shipping+Production+Systems+with+99.8%25+Uptime;Building+High-Throughput+APIs+%26+Geospatial+Engines" alt="Live Typing Telemetry" />
+</a>
+
+<!-- ACTION DOCK -->
 <p align="center">
-  <a href="https://portfolio-frontend-iota-lilac.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://github.com/AshishCodes-dev/AshishCodes-dev/blob/main/Ashish-Pratap-Singh-Resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge" alt="Resume" /></a>
-  &nbsp;
-  <a href="mailto:ashish.codes.devv@gmail.com"><img src="https://img.shields.io/badge/📫_Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
+  <a href="https://portfolio-frontend-iota-lilac.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-frontend-iota-lilac.vercel.app/Ashish_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VIEW_RESUME_(PDF)-58a6ff?style=for-the-badge&logoColor=white" alt="Resume PDF" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ashishcodes-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ashish.codes.devv@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### &nbsp; `$ cat ~/about.md` &nbsp; 🧑‍💻
+### &nbsp; `ashish@engineer:~$ whoami --verbose` 💻
 
-```yaml
-name: Ashish Pratap Singh
-located_in: Jaipur, Rajasthan, India 🇮🇳
-education: BCA — IPS College (Rajasthan University), 2023–2026
-current_role: Full-Stack Software Developer 💻
-experience: Aug 2023 — Present
-
-fields_of_interest:
-  - "🤖 Low-Latency AI Integration (OpenRouter)"
-  - "🗺️ Geospatial Routing & Mapping (Leaflet / OSRM)"
-  - "🎧 Real-Time Audio Streaming (YouTube API / Web Audio)"
-  - "🔐 Secure RESTful Architecture (JWT / bcrypt / CORS)"
-
-currently_building: "Production-Grade Full-Stack Systems 🚀"
-daily_routine: "Code → Coffee → Deploy → Repeat ☕"
-
-fun_fact: >
-  I architect sub-250ms voice pipelines
-  and render turn-by-turn maps in <150ms
-  — before my morning coffee is ready.
+```typescript
+interface SystemsEngineer {
+  name: "Ashish Pratap Singh";
+  title: "Full-Stack Software Engineer";
+  education: "Bachelor of Computer Applications (BCA) — IPS College, RU";
+  specialization: [
+    "Sub-250ms Low-Latency AI Pipelines (OpenRouter, Web Audio)",
+    "High-Performance Geospatial Routing Engines (Leaflet, OSRM)",
+    "Custom Real-Time Audio State Architecture (YouTube API)",
+    "Enterprise RESTful Security (Role-based JWT, bcrypt, CORS)"
+  ];
+  productionMetrics: {
+    liveDeployments: 3;
+    systemUptime: "99.8%";
+    coreWebVitals: "< 1.2s";
+    lighthouseRating: "92+";
+  };
+  motto: "Clean architectures. Zero shortcuts. Maximum throughput.";
+}
 ```
 
 ---
 
 <div align="center">
 
-### 📊 &nbsp; GitHub Activity & Performance
+### 📊 &nbsp; Live System Telemetry & Activity
 
 <br/>
 
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=AshishCodes-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="85%" alt="GitHub Streak" />
+<!-- STREAK MONITOR -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishCodes-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="85%" alt="Contribution Streak" />
 
 <br/><br/>
 
-<!-- STATS CARDS -->
+<!-- DUAL STATS METRIC MATRIX -->
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AshishCodes-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AshishCodes-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="42%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AshishCodes-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="43%" alt="Top Languages" />
 </p>
-
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishCodes-dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -90,28 +94,28 @@ fun_fact: >
 
 <div align="center">
 
-### ⚡ &nbsp; Engineering Arsenal
+### ⚡ &nbsp; Core Technical Arsenal
 
 <br/>
 
 <p align="center">
-  <b>💬 Languages & Core</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="Languages" />
+  <b>Languages & Runtimes</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css&theme=dark" alt="Languages" />
 </p>
 
 <p align="center">
-  <b>🎨 Frontend & UI</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend" />
+  <b>Frontend Engineering</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,pwa&theme=dark" alt="Frontend" />
 </p>
 
 <p align="center">
-  <b>⚙️ Backend & Database</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark" alt="Backend and DB" />
+  <b>Backend & Data Layer</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&theme=dark" alt="Backend" />
 </p>
 
 <p align="center">
-  <b>🛠️ DevOps & Tooling</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&theme=dark" alt="DevOps" />
+  <b>DevOps & Infrastructure</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&theme=dark" alt="DevOps" />
 </p>
 
 </div>
@@ -120,7 +124,7 @@ fun_fact: >
 
 <div align="center">
 
-### 🏗️ &nbsp; Production Systems I've Engineered
+### 🏗️ &nbsp; Flagship Production Systems
 
 </div>
 
@@ -129,7 +133,7 @@ fun_fact: >
 <td width="50%" valign="top">
 
 <h3 align="center">🧠 InterviewIQ</h3>
-<p align="center"><strong>AI Mock Interview & Career Prep Platform</strong></p>
+<p align="center"><em>Enterprise AI Mock Interview & Career Engine</em></p>
 
 <div align="center">
 
@@ -141,20 +145,21 @@ fun_fact: >
 </div>
 
 ```
-Architecture & Benchmarks:
-├── Voice-to-Text Pipeline .... < 250ms
-├── Automated Grading Engine .. < 3 sec
-├── Schema Architecture ....... Compound Indexed
-└── Deliverables .............. PDF Report Cards
+TELEMETRY BENCHMARKS:
+├── Audio Streaming Pipeline .... < 250ms
+├── Automated Grading Engine .... < 3 sec
+├── Database Indexing ........... Compound Norm
+└── Output ...................... PDF Reports
 ```
 
-> Built a sub-250ms voice-to-text pipeline integrating Web Audio streaming with OpenRouter AI. Engineered a 5-category evaluation matrix generating instant downloadable report cards.
+> • Coupled Web Audio streaming listeners with OpenRouter AI APIs for natural, low-latency interview dialogue.  
+> • Built automated evaluation matrix generating 5-category performance cards and downloadable PDFs.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://client-puce-five-74.vercel.app)
+[![▶ Launch Live App](https://img.shields.io/badge/▶_LAUNCH_APP-58a6ff?style=for-the-badge)](https://client-puce-five-74.vercel.app)
 &nbsp;
-[![Source](https://img.shields.io/badge/SOURCE-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/InterviewIQ)
+[![⌨ GitHub Repo](https://img.shields.io/badge/⌨_REPOSITORY-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/InterviewIQ)
 
 </div>
 
@@ -162,7 +167,7 @@ Architecture & Benchmarks:
 <td width="50%" valign="top">
 
 <h3 align="center">🎵 SONIQ</h3>
-<p align="center"><strong>AI-Powered Music Streaming Platform</strong></p>
+<p align="center"><em>AI-Powered Music Streaming & Queue Engine</em></p>
 
 <div align="center">
 
@@ -174,20 +179,21 @@ Architecture & Benchmarks:
 </div>
 
 ```
-Architecture & Benchmarks:
-├── Audio Hosting / CDN ....... $0 / month
-├── Natural Language AI DJ .... < 4 sec
-├── Playback Desync ........... 0%
-└── Mobile PWA Load Boost ..... 35% faster
+TELEMETRY BENCHMARKS:
+├── Audio Hosting & CDN Cost .... $0 / month
+├── Dynamic AI DJ Queue ......... < 4 sec
+├── Playback Desync ............. 0%
+└── Mobile Load Acceleration .... +35% faster
 ```
 
-> Engineered zero-cost audio streaming using the YouTube IFrame Player API. Built a dynamic AI DJ that converts mood prompts into instant playlists, with offline PWA caching for mobile.
+> • Zero-cost audio hosting controller driving real-time streams via YouTube IFrame API.  
+> • AI DJ converting natural language prompts into instant queues with React Context state synchronization.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://sonix-music-app.vercel.app)
+[![▶ Launch Live App](https://img.shields.io/badge/▶_LAUNCH_APP-58a6ff?style=for-the-badge)](https://sonix-music-app.vercel.app)
 &nbsp;
-[![Source](https://img.shields.io/badge/SOURCE-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/sonix-music-app)
+[![⌨ GitHub Repo](https://img.shields.io/badge/⌨_REPOSITORY-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/sonix-music-app)
 
 </div>
 
@@ -196,57 +202,58 @@ Architecture & Benchmarks:
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚗 Uber Clone</h3>
-<p align="center"><strong>Ride Dispatch & Geospatial Platform</strong></p>
+<h3 align="center">🚗 Uber Core</h3>
+<p align="center"><em>On-Demand Dispatch & Geospatial Routing Platform</em></p>
 
 <div align="center">
 
 ![MERN](https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![OSRM](https://img.shields.io/badge/OSRM-2C2D72?style=flat-square&logo=openstreetmap&logoColor=white)
 
 </div>
 
 ```
-Architecture & Benchmarks:
-├── Route Turn-by-Turn Map .... < 150ms
-├── Access Control ............ Dual-Role JWT
-├── Ride Lifecycle ............ 4-Step OTP Handshake
-└── Security Guard ............ bcrypt + Blacklisting
+TELEMETRY BENCHMARKS:
+├── Turn-by-Turn Map Render ..... < 150ms
+├── Access Isolation ............ Dual-Role JWT
+├── Handshake Protocol .......... 4-Step OTP
+└── Password Salting ............ bcrypt + Blacklist
 ```
 
-> Engineered dual-role access control with isolated rider and captain portals. Rendered dynamic turn-by-turn routing in under 150ms using Leaflet and OSRM, with a ride state machine secured by OTP verification.
+> • Dual-role access control with boundary isolation between rider and captain portals.  
+> • Sub-150ms geospatial turn-by-turn routing integrating Leaflet with OSRM engines and Nominatim geocoding.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-alpha-snowy-34.vercel.app)
+[![▶ Launch Live App](https://img.shields.io/badge/▶_LAUNCH_APP-58a6ff?style=for-the-badge)](https://frontend-alpha-snowy-34.vercel.app)
 &nbsp;
-[![Source](https://img.shields.io/badge/SOURCE-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/uber-clone-fullstack)
+[![⌨ GitHub Repo](https://img.shields.io/badge/⌨_REPOSITORY-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev/uber-clone-fullstack)
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🔧 Next Endeavors</h3>
-<p align="center"><strong>Currently Engineering & Exploring</strong></p>
+<h3 align="center">⚡ Currently Architecting</h3>
+<p align="center"><em>Next-Generation Engineering Roadmap</em></p>
 
 <br/>
 
 ```javascript
-const roadmap = {
-  Q4_2026: {
-    topics: ["System Design", "Redis Caching", "AWS Microservices"],
-    building: "AI-Native SaaS Automation Engine",
-    target: "Full-Stack Software Engineering Role"
+const productionRoadmap = {
+  activeMilestones: {
+    focus: ["System Design", "Distributed Caching (Redis)", "AWS Services"],
+    building: "AI-Autonomous Workflow Orchestrator",
+    target: "Elite Full-Stack Software Engineering Role"
   },
-  coreValues: [
-    "Ship fast, iterate faster",
-    "Security is not an afterthought",
-    "Sub-second latency is standard"
-  ],
-  motto: "Code that solves real problems."
+  engineeringPhilosophy: [
+    "High signal over noise",
+    "Sub-second latency is not a luxury",
+    "Architecture defines scalability",
+    "Ship reliably, measure relentlessly"
+  ]
 };
 ```
 
@@ -254,7 +261,7 @@ const roadmap = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-frontend-iota-lilac.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_EXPLORE_PORTFOLIO-58a6ff?style=for-the-badge)](https://portfolio-frontend-iota-lilac.vercel.app/)
 
 </div>
 
@@ -266,54 +273,78 @@ const roadmap = {
 
 <div align="center">
 
-### 📈 &nbsp; Production Standards & Telemetry
+### 📈 &nbsp; Production Telemetry & SLA Standards
 
 </div>
 
 ```
-╔════════════════════════════════════════════════════════════════════╗
-║                        PRODUCTION METRICS                          ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  🟢 Application Uptime ................... 99.8%                   ║
-║  🟢 Core Web Vitals ...................... < 1.2 seconds           ║
-║  🟢 Google Lighthouse Score .............. 92+ / 100               ║
-║  🟢 MongoDB Query Optimization ........... ~30% faster             ║
-║  🟢 Voice-to-Text Latency ................ < 250 ms                ║
-║  🟢 Route Rendering (Leaflet/OSRM) ....... < 150 ms                ║
-║  🟢 AI Queue Generation (SONIQ) .......... < 4 seconds             ║
-║  🟢 Mobile PWA Load Time ................. 35% improvement         ║
-║  🟢 Audio Hosting + CDN Cost ............. $0 / month              ║
-║  🟢 Production Systems Deployed .......... 3 (100% on Vercel)      ║
-║  🟢 SDLC Coverage ........................ Figma → CI/CD           ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                     PRODUCTION SLA TELEMETRY                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  🟢 System Availability / Uptime ........... 99.8%                   ║
+║  🟢 Core Web Vitals (FCP / LCP) ............ < 1.2 seconds            ║
+║  🟢 Google Lighthouse Quality Score ......... 92+ / 100               ║
+║  🟢 Database Aggregation Optimization ...... ~30% faster             ║
+║  🟢 Voice-to-Text Pipeline Latency ......... < 250 milliseconds       ║
+║  🟢 Geospatial Routing Calculation ......... < 150 milliseconds      ║
+║  🟢 Dynamic Queue Generation (SONIQ) ....... < 4 seconds              ║
+║  🟢 Mobile Client PWA Load Boost ........... +35% improvement        ║
+║  🟢 Audio CDN & Ingestion Overhead ......... $0 / month               ║
+║  🟢 Cloud Infrastructure Platform .......... 100% Automated CI/CD     ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-### 🤝 &nbsp; Let's Connect & Build Something Epic
+### 🤝 &nbsp; Connect & Collaborate
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portfolio-frontend-iota-lilac.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishcodes-dev)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish.codes.devv@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCodes-dev)
-&nbsp;
-[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge)](https://github.com/AshishCodes-dev/AshishCodes-dev/blob/main/Ashish-Pratap-Singh-Resume.pdf)
+<p align="center">
+  <a href="https://portfolio-frontend-iota-lilac.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-frontend-iota-lilac.vercel.app/Ashish_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-58a6ff?style=for-the-badge" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ashishcodes-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ashish.codes.devv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AshishCodes-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" alt="Quote of the Day" />
 
 <br/><br/>
 
-**Turning ideas into digital reality — one commit at a time.** 🚀
+```
+ █████╗ ███████╗██╗  ██╗██╗███████╗██╗  ██╗
+██╔══██╗██╔════╝██║  ██║██║██╔════╝██║  ██║
+███████║███████╗███████║██║███████╗███████║
+██╔══██║╚════██║██╔══██║██║╚════██║██╔══██║
+██║  ██║███████║██║  ██║██║███████║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+```
+
+**"Turning ideas into digital reality — one commit at a time." 🚀**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:1f6feb&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
